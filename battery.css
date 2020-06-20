@@ -1,0 +1,18 @@
+body /*To align battery at Center*/
+{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #EF3340;
+}
+#div1
+{
+  font-size: 70px;
+  color:#E2DCD6
+}
+#battery
+{
+  font-size: 30px;
+}
